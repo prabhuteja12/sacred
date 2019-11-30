@@ -1,0 +1,3 @@
+[submodule "sge_python"]
+	path = sge_python
+	url = https://github.com/kageback/sge-python.git
